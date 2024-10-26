@@ -1,0 +1,19 @@
+{
+  "name": "013_ahj_workers",
+  "version": "1.0.0",
+  "description": "HW ahj-workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SirPen9uin/ahj_workers.git"
+  },
+  "author": "SirPen9uin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirPen9uin/ahj_workers/issues"
+  },
+  "homepage": "https://github.com/SirPen9uin/ahj_workers#readme"
+}
